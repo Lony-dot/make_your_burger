@@ -1,7 +1,7 @@
 <template>
-    <footer id="footer">
+    <div id="footer">
         <p>Make Your Burger &copy; 2023</p>
-</footer>
+    </div>
 </template>
 
 <script>
@@ -21,6 +21,5 @@ export default {
     justify-content: center;
     bottom: 0;
     width: 100%;
-    position:absolute;
    } 
 </style>
