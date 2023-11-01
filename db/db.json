@@ -86,19 +86,7 @@
         "Bacon",
         "Cheddar"
       ],
-      "status": "Em produção",
-      "msg": null,
-      "id": 1
-    },
-    {
-      "nome": "aaa",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Cheddar"
-      ],
-      "status": "s.tipo",
+      "status": "Solicitado",
       "msg": null,
       "id": 2
     },
